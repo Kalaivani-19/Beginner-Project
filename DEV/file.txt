@@ -5,3 +5,4 @@ I have done my work today
 Git cannot automatically combines the changes.
 
 changes are made
+Git cannot automatically combines the changes.
